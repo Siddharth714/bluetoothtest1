@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYfd1EaJNZQogYERbejUTHZ84x02WmSxTa01c9FDu/EEwp1QW2yiuRbEtRvxNhrES+IO2ECPiaZwWVFx2c/y/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Siddharth\\Downloads\\ELM327-WIFI-OBDII-TOOL-master\\ELM327-WIFI-OBDII-TOOL-master\\ELM327_PID_DataCollector\\ELM327_WIFI_OBDII_TOOL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siddharth\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0\\runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
